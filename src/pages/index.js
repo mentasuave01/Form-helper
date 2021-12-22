@@ -57,7 +57,7 @@ const IndexPage = () => {
         font-bold text-xl text-center p-2
         ">
           <h1 className="text-2xl font-extrabold"> 1</h1>
-          Search your vault address<br/> <a className="text-red-500" target="_blank" rel="noreferrer"   href="https://anyswap.net/"> HERE</a>
+          Search your vault address<br/> <a className="text-red-500" target="_blank" rel="noreferrer"   href="https://dashboard.grim.finance/"> HERE</a>
             
           
         </div>
